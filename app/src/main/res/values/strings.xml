@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExhangeApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_feature_message">Our main feature is to exchange your items with each others</string>
+    <string name="main_feature">Main Feature</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>
